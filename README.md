@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+I'm a software devloper interested in building technology features and applications that promote the growth of companies by automating tasks, providing data analytic tools, designing user interfaces, or improving business relationships.
+</p>
+
+<p>
+Feel free to check out my respositories and see my work. Below are my three most important projects.
+</p>
+
+<p>
+You can contact me by:
+</p>
+
+- Email juanp23carrillo@gmail.com
+- Linkedin https://github.com/juanpc10
+
+<p>
+Thanks!
+</p>
