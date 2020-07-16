@@ -20,15 +20,17 @@ I'm a software devloper interested in building technology features and applicati
 </p>
 
 <p>
-Feel free to check out my respositories and see my work. Below are my three most important projects.
-</p>
-
-<p>
 You can contact me by:
 </p>
 
 - Email juanp23carrillo@gmail.com
 - Linkedin https://github.com/juanpc10
+
+
+<p>
+Feel free to check out my respositories and see my work. Below are my three most important projects.
+</p>
+
 
 <p>
 Thanks!
