@@ -24,7 +24,7 @@ You can contact me by:
 </p>
 
 - Email juanp23carrillo@gmail.com
-- Linkedin https://github.com/juanpc10
+- Linkedin https://www.linkedin.com/in/juanpc10/
 
 
 <p>
