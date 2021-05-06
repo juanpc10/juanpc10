@@ -6,7 +6,7 @@ Feel free to check out my respositories and see my work.
 </p>
 
 <p>
-Schedule a meeting with me here:https://calendly.com/juancarrillodev/30min
+Schedule a meeting with me here: https://calendly.com/juancarrillodev/30min
 </p>
 
 - Portfolio https://juan-carrillo-dev.netlify.app/
